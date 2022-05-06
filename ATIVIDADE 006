@@ -1,0 +1,4 @@
+nome = "asafe"
+sobrenome = "silva"
+print(nome, sobrenome)
+print(nome + " " + sobrenome)
