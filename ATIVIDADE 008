@@ -1,0 +1,4 @@
+nome = "asafe"
+
+print("Meu" + " " + " " + "nome" + " " + "é", nome)
+print("e" + " " + "este" + " " + "meu" + " " + "primeiro" + " " + "print" + " " + "em" + " " + "tela!")
